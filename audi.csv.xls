@@ -1,0 +1,11 @@
+model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
+A1,2017,12000,Manual,35000,Petrol,30,55.4,1.4
+A3,2018,18000,Automatic,22000,Diesel,145,67.3,2.0
+A4,2019,24000,Manual,15000,Diesel,150,58.9,2.0
+A6,2020,32000,Automatic,12000,Petrol,200,35.6,3.0
+Q2,2021,21000,Manual,10000,Petrol,145,45.6,1.5
+Q3,2022,27000,Automatic,8000,Diesel,150,50.2,2.0
+Q5,2020,35000,Automatic,13000,Petrol,190,34.5,2.0
+A1,2016,9500,Manual,45000,Petrol,30,56.5,1.4
+A3,2015,8500,Manual,50000,Diesel,30,72.4,1.6
+A4,2017,15500,Automatic,30000,Petrol,150,42.2,1.8
